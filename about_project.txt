@@ -1,0 +1,9 @@
+we r going to build  full-stack web  e-Commerce Application using the latest 
+web development technologies including
+
+#Next.js13 app router 
+# React 
+# Tailwind
+#Prisma
+# MongoDB 
+#NextAuth.
